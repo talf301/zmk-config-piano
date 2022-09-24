@@ -158,8 +158,8 @@
 		};
        		alpha2 {
 		bindings = <
-		 	 	&kp V 		&kp W		&kp M	 	 	&kp F    	&kp SQT			&kp Z 		
-		&kp Q	 	&kp J 		&kp P		&kp K 			&kp B 		&kp DOT			&kp X		&kp Y 
+		 	 	&kp Q 		&kp X		&kp V	 	 	&kp Y    	&kp J			&kp P 		
+		&kp Z	 	&kp W 		&kp B		&kp F 			&kp M 		&kp K			&kp DOT		&kp SQT 
 			 	 		 		&sk LSHIFT 		&none &none &sl AL2U	
 		>;
 		};
@@ -206,8 +206,8 @@
 
        		alpha2cap {
 		bindings = <
-		 	 	&kp LS(V)	&kp LS(W)	&kp LS(M) 	 	&kp LS(F)    	&trans		&kp LS(Z)	
-		&kp LS(Q) 	&kp LS(J) 	&kp LS(P)	&kp LS(K)		&kp LS(B)	&kp COMMA	&kp LS(X)	&kp LS(Y) 
+		 	 	&kp LS(Q)	&kp LS(X)	&kp LS(V) 	 	&kp LS(Y)    	&kp LS(J)		&kp LS(P)	
+		&kp LS(Z) 	&kp LS(W) 	&kp LS(B)	&kp LS(F)		&kp LS(M)	&kp LS(K)	&kp LS(SQT)	&kp COMMA 
 			 	&trans 		&trans 			&trans	&none
 		>;
 		};
